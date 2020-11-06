@@ -2,7 +2,7 @@
 title: Stajich lab
 ---
 
-# <i class="fas fa-mushroom"></i>Stajich Laboratory
+# <i class="fas fa-toadstool"></i>Stajich Laboratory
 
 {%
   include figure.html
