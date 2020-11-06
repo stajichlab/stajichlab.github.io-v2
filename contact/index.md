@@ -4,9 +4,8 @@ title: Contact
 
 # <i class="fas fa-envelope"></i>Contact
 
+{% include figure.html image="images/Genomics.jpg" width="100%" %}
 [**Stajich lab**](https://stajichlab.github.io/lab-website-template/) is part of the [Department of Microbiology and Plant Pathology](https://microplantpath.ucr.edu), [Institute for Integrative Genome Biology](https://iigb.ucr.edu), [Center for Plant Cell Biology](https://cepceb.ucr.edu) at [University of California Riverside](https://ucr.edu). We are located on the 1st floor of the Genomics building.
-
-{% include figure.html image="images/volcano.jpg" width="100%" %}
 
 ## Email
 
@@ -19,12 +18,12 @@ title: Contact
 Tip: put both a mailing address for mail/deliveries, AND a navigation-friendly address so people can find their way to you easily.
 {% endcomment %}
 
-Jason Stajich Laboratory
-900 University Ave
-1219 Genomics
-Dept of Microbiology and Plant Pathology
-University of California-Riverside
-Riverside, CA 92521
+Jason Stajich Laboratory <br>
+900 University Ave <br>
+1219 Genomics <br>
+Dept of Microbiology and Plant Pathology <br>
+University of California-Riverside <br>
+Riverside, CA 92521 <br>
 USA
 {:.center}
 
