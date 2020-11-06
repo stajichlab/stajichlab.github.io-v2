@@ -4,16 +4,13 @@ title: Contact
 
 # <i class="fas fa-envelope"></i>Contact
 
-Our lab is part of the [Department of Metaphor](), at the school of [Whimsy and Caprice]().
-We are located on the 13th floor of the [Center for Wit and Sagacity]().
-
 [**Stajich lab**](https://stajichlab.github.io/lab-website-template/) is part of the [Department of Microbiology and Plant Pathology](https://microplantpath.ucr.edu), [Institute for Integrative Genome Biology](https://iigb.ucr.edu), [Center for Plant Cell Biology](https://cepceb.ucr.edu) at [University of California Riverside](https://ucr.edu). We are located on the 1st floor of the Genomics building.
 
 {% include figure.html image="images/volcano.jpg" width="100%" %}
 
 ## Email
 
-[scrooge@mcduck.com](mailto:jason.stajich@ucr.edu)
+[jason.stajich@ucr.edu](mailto:jason.stajich@ucr.edu)
 {:.center}
 
 ## Address
