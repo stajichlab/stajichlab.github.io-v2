@@ -5,11 +5,10 @@ title: Stajich lab
 # <i class="fas fa-flask"></i>Stajich Laboratory
 
 {%
-  include feature.html
+  include figure.html
   image="images/StajichLabPic_crop_sm.jpg"
-  link="Team"
-  heading="Welcome to the Stajich Lab!"
-  text=text
+  caption="Welcome to the Stajich Lab!"
+  width="100%"
 %}
 
 
