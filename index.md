@@ -2,7 +2,7 @@
 title: Stajich lab
 ---
 
-# <i class="fas fa-toadstool"></i>Stajich Laboratory
+# <i class="fas fa-dna"></i>Stajich Laboratory
 
 {%
   include figure.html
