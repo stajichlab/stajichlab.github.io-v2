@@ -4,6 +4,15 @@ title: Stajich lab
 
 # <i class="fas fa-flask"></i>Stajich Laboratory
 
+{%
+  include feature.html
+  image="images/StajichLabPic_crop_sm.jpg"
+  link="Team"
+  heading="Welcome to the Stajich Lab!"
+  text=text
+%}
+
+
 [**Stajich lab**](https://stajichlab.github.io/lab-website-template/) is part of the [Department of Microbiology and Plant Pathology](https://microplantpath.ucr.edu), [Institute for Integrative Genome Biology](https://iigb.ucr.edu), [Center for Plant Cell Biology](https://cepceb.ucr.edu) at [University of California Riverside](https://ucr.edu). 
 {: .welcomefont}
 
