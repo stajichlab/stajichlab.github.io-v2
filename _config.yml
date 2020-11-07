@@ -24,7 +24,7 @@ defaults:
   - scope:
       path: ""
     values:
-      description: Dr. Jason E. Stajich Laboratory at the Department of Microbiology and Plant Pathology,, University of California Riverside # description that will show under search engine results
+      description: Dr. Jason E. Stajich Laboratory at the Department of Microbiology and Plant Pathology, University of California Riverside # description that will show under search engine results
       background: images/test-tube.jpg # background image in header and footer
       layout: default
   # markdown files in /_members
