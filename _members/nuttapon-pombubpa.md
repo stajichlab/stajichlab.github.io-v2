@@ -10,7 +10,7 @@ group: current
 image: images/members/Pombubpa.jpg
 website: https://natpombubpa.github.io/
 email: npomb001@ucr.edu
-google:YVzTNlMAAAAJ
+google: YVzTNlMAAAAJ
 github: NatPombubpa
 twitter: NatPombubpa
 ---
