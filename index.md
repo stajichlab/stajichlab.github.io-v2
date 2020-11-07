@@ -24,7 +24,7 @@ To better understand the evolution of the whole kingdom we have embarked on a pr
 
 [See our publications &nbsp;→](research)
 {% endcapture %}
-{% include centerer.html html=text spaced=true %}
+{% include centerer.html html=html spaced=true %}
 {%
   include feature.html
   image="images/StajichAsilomar2017.webp"
