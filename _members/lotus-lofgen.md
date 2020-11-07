@@ -4,6 +4,7 @@ search:
   - L. Lofgen
   - L Lofgen
 role: postdoc
+group: current
 image: images/members/Lotus.jpg
 website: http://www.lotuslofgren.com
 email: LotusLofgren@gmail.com
