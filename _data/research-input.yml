@@ -49,7 +49,7 @@
 # the citation.
 
 - id: doi:10.1101/2020.09.03.281683
-  image: https://royalsocietypublishing.org/cms/asset/1b0430b1-5a66-4523-83be-29b435eddf86/rsif20170387f01.jpg
+  image: https://user-images.githubusercontent.com/18429961/98429822-f5093200-205d-11eb-96b0-87a8a4892411.jpg
   extra-links:
     - type: preprint
       link: https://doi.org/10.1101/2020.09.03.281683
@@ -57,9 +57,17 @@
     - Genome Oyster_mushroom
 
 - id: doi:10.1101/2020.08.24.265538
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
+  image: https://user-images.githubusercontent.com/18429961/98429852-2c77de80-205e-11eb-9e27-f24e5d32ece9.jpg
   extra-links:
     - type: preprint
       link: https://doi.org/10.1101/2020.08.24.265538
   tags:
     - Transposable_element Rice
+
+- id: doi:10.1128/mBio.02027-20
+  image: https://user-images.githubusercontent.com/18429961/98429878-53361500-205e-11eb-9cec-2108d0b743e1.jpg
+  extra-links:
+    - type: journal
+      link: https://doi.org/10.1128/mBio.02027-20
+  tags:
+    - Early-diverging Fungi Mycoviruses
