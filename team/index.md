@@ -8,6 +8,7 @@ title: Team
 
 {% capture html %}
 {% include team-list.html role="pi" %}
+{% include team-list.html role="postdoc" %}
 {% include team-list.html role="phd" %}
 {% include team-list.html role="programmer" %}
 {% endcapture %}
