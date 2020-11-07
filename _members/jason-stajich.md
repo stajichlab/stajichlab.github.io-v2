@@ -3,6 +3,7 @@ title: Jason E. Stajich
 search:
   - J.E. Stajich
   - Jason E Stajich
+  - Jason E. Stajich
 role: pi
 group: current
 image: images/members/Stajich_2019_2.jpg
