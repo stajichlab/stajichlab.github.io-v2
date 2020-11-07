@@ -34,7 +34,7 @@ title: Stajich lab
 We also develop bioinformatic approaches to visualizing and studying genome evolution. Our SOPs, protocols, codes, and resources are publically available. <br>
 
 
-<center><a href="https://stajichlab.github.io/resource/">See our resources &nbsp;→</a></center>
+<center><a href="https://stajichlab.github.io/resources/">See our resources &nbsp;→</a></center>
 {% endcapture %}
 {%
   include feature.html
