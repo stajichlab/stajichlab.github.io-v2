@@ -39,7 +39,7 @@ We also develop bioinformatic approaches to visualizing and studying genome evol
 {%
   include feature.html
   image="images/resource.jpg"
-  link="resource"
+  link="resources"
   heading="Stajich lab resources"
   text=text
 %}
