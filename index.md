@@ -22,9 +22,8 @@ To better understand the evolution of the whole kingdom we have embarked on a pr
 {% capture text %}
 [Research](research) in the lab focuses on evolution of fungi through use of genetic and genomic approaches incorporating experimental and computational tools. We are focused on evolutionary relationships of fungi in particular [zygomycete](http://zygolife.org/home/) and chytrid fungi. <br>
 
-[See our publications &nbsp;→](research)
+<center>[See our publications &nbsp;→](research)</center>
 {% endcapture %}
-{% include centerer.html html=html spaced=true %}
 {%
   include feature.html
   image="images/StajichAsilomar2017.webp"
@@ -36,12 +35,25 @@ To better understand the evolution of the whole kingdom we have embarked on a pr
 {% capture text %}
 We also develop bioinformatic approaches to visualizing and studying genome evolution. Our SOPs, protocols, codes, and resources are publically available. <br>
 
-[See our resources &nbsp;→](resource) {:.center}
+[See our resources &nbsp;→](resource)
 {% endcapture %}
 {%
   include feature.html
   image="images/resource.jpg"
   link="resource"
   heading="Stajich lab resources"
+  text=text
+%}
+
+{% capture text %}
+Stajich lab welcomes people from diverse backgrounds regardless of race, ethinicity, color, religion, gender, gender identity, gender expression, sexual orientation, political affiliation, family commitments, national origin, genetics, disability or eligible age  <br>
+
+[See our members &nbsp;→](team)
+{% endcapture %}
+{%
+  include feature.html
+  image="images/Saisuki_groupphoto.jpg"
+  link="team"
+  heading="Our team members"
   text=text
 %}
