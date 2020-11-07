@@ -2,7 +2,7 @@
 title: Blog
 ---
 
-## <i class="fas fa-twitter"></i>News from our twitter
+## <i class="fas fa-newspaper"></i>News from our twitter
 
 <!-- Twitter embeds from https://publish.twitter.com/ -->
 
