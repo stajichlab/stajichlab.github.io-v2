@@ -4,7 +4,7 @@ title: Team
 
 # <i class="fas fa-users"></i>Team
 
-## STajich Lab Members
+## Stajich Lab Members
 
 {% capture html %}
 {% include team-list.html role="pi" %}
