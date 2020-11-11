@@ -1,8 +1,8 @@
 ---
-title: Lotus Lofgen
+title: Lotus Lofgren
 search:
-  - L. Lofgen
-  - L Lofgen
+  - L. Lofgren
+  - L Lofgren
 role: postdoc
 group: current
 image: images/members/Lotus.jpg
@@ -22,4 +22,4 @@ I'm broadly interested in the mechanisms structuring fungal community dynamics, 
 I’m passionate about increasing diversity in STEM, inclusive pedagogy, science communication, and bringing attention to issues of access and accessibility across university levels. 
 
 
-I received my Ph.D. from the University of Minnesota in 2019 and now live in sunny SoCal with my husband, Clayton, and our Blue Healer, Kjempe. When I’m not at the lab, I ride bikes, make ferments and found object art, garden, collect bad 90’s punk music, and (of course), hunt for mushrooms. 
+I received my Ph.D. from the University of Minnesota in 2019, working with Dr. Peter Kennedy, and started at the Stajich lab the same year. When I’m not at the lab, I ride bikes, make ferments and found object art, garden, collect bad 90’s punk music, and (of course), hunt for mushrooms. 
