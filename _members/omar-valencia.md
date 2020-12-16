@@ -7,7 +7,7 @@ search:
   - Valencia
 role: programmer
 group: current
-image: 
+image: images/members/omar-valencia.jpeg
 website: https://github.com/omarval626
 email: omarval626@gmail.com
 github: omarval626
