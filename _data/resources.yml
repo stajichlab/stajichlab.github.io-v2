@@ -56,6 +56,12 @@
   link: https://github.com/stajichlab/PHYling_unified
   description: If you have a couple of protein fasta sequences of fungi and want to generate a tree using single copy markers, this is the tool for you! Clone this pipeline and let's build a tree!
 
+- title: Gen220-Fall 2020
+  type: featured
+  image: images/Gen220.png
+  link: https://biodataprog.github.io/GEN220_2020/
+  description: Landing page for Gen220 High Throughput Biological Data Class.
+
 - title: SOPs
   type: featured
   image: https://user-images.githubusercontent.com/18429961/98453923-4f17ff00-2113-11eb-9889-9041c0dbd84f.png
