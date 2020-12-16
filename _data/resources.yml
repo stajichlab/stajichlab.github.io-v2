@@ -26,6 +26,36 @@
   link: https://github.com/stajichlab
   description: Stajich lab codes and bioinformatic pipelines are publically available on our lab's github. 
 
+- title: Funannotate Template on Github
+  type: featured
+  image: https://user-images.githubusercontent.com/18429961/98454000-4c69d980-2114-11eb-8dfa-cd0210ce9ad2.jpg
+  link: https://github.com/stajichlab/funannotate_template
+  description: Want to annotate a Fungal genome? Follow along using our Funannotate template! 
+  
+- title: Comparative Pipeline Template on Github
+  type: featured
+  image: https://user-images.githubusercontent.com/18429961/98454000-4c69d980-2114-11eb-8dfa-cd0210ce9ad2.jpg
+  link: https://github.com/stajichlab/Comparative_pipeline
+  description: You've got some annotated genomes but now you want to compare them to each other? Use our pipeline to assess PFAM, MEROPS and CAZYmes!
+  
+- title: RNASeq Template on Github
+  type: featured
+  image: https://user-images.githubusercontent.com/18429961/98454000-4c69d980-2114-11eb-8dfa-cd0210ce9ad2.jpg
+  link: https://github.com/stajichlab/RNASeq_template
+  description: You got your Transcriptomics data, now what? Follow our pipeline to assess your data.
+
+- title: AAFTF on Github
+  type: featured
+  image: images/AAFTF.png
+  link: https://github.com/stajichlab/AAFTF
+  description: You just sequenced your fungus, now what? Let's assemble!
+  
+- title: PHYling Unified on Github
+  type: featured
+  image: https://user-images.githubusercontent.com/18429961/98454000-4c69d980-2114-11eb-8dfa-cd0210ce9ad2.jpg
+  link: https://github.com/stajichlab/PHYling_unified
+  description: If you have a couple of protein fasta sequences of fungi and want to generate a tree using single copy markers, this is the tool for you! Clone this pipeline and let's build a tree!
+
 - title: SOPs
   type: featured
   image: https://user-images.githubusercontent.com/18429961/98453923-4f17ff00-2113-11eb-9889-9041c0dbd84f.png
