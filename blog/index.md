@@ -4,9 +4,7 @@ title: Blog
 
 ## <i class="fas fa-newspaper"></i>News from our twitter
 
-<!-- Twitter embeds from https://publish.twitter.com/ -->
 
-<a class="twitter-timeline" data-width="400" data-height="400" href="https://twitter.com/stajichlab?lang=en">Tweets by StajichLab</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 {:.center}
 
 <a href="https://twitter.com/stajichlab?lang=en" class="twitter-follow-button" data-show-count="false">Follow @stajichlab</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -27,3 +25,6 @@ Jesús Peña introduces his research on sexual reproduction in the zygomycete fu
 
 {% include blog-list.html %}
 
+<!-- Twitter embeds from https://publish.twitter.com/ -->
+
+<a class="twitter-timeline" data-width="400" data-height="400" href="https://twitter.com/stajichlab?lang=en">Tweets by StajichLab</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
