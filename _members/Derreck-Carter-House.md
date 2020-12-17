@@ -1,11 +1,11 @@
 ---
-title: Dr. Derreck Carter-House
+title: Derreck Carter-House
 search:
   - D. Carter-House
   - D Carter-House
 role: phd
 group: alumni
-image: images/members/Derreck.jpg
+image: images/Derreck.jpg
 #website: 
 #email: 
 #google: 
