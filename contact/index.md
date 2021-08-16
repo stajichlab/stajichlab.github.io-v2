@@ -20,7 +20,7 @@ Tip: put both a mailing address for mail/deliveries, AND a navigation-friendly a
 
 Jason Stajich Laboratory <br>
 900 University Ave <br>
-1219 Genomics <br>
+1219B Genomics <br>
 Dept of Microbiology and Plant Pathology <br>
 University of California-Riverside <br>
 Riverside, CA 92521 <br>
