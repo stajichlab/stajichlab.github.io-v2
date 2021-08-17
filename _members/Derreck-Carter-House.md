@@ -9,10 +9,11 @@ image: images/Derreck.jpg
 #website: 
 #email: 
 #google: 
+linkedin: https://www.linkedin.com/in/derreck-carter-house-56779790
 github: Derreckadam
 twitter: ZygoAntagonist
 ---
 
-Dr. Derreck Adam Carter-House defended his thesis in December 2019. He continued to do a post doc in the Stajich lab until April 2020.
+Dr. Derreck Adam Carter-House defended his thesis on impact of bacteria volatiles on fungal growth in December 2019. He continued to do a post doc in the Stajich lab until April 2020.
 
-He then moved to the Stanford area and is currently working at Clear Labs, they focus on food testing and genomics.
+He currently is a Scientist at Clear Labs, focusing on application of Nanopore sequencing for automation in pathogen detection.
